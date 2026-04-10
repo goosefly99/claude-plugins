@@ -10,8 +10,8 @@
       "name": "dev-automation",
       "description": "Project design, documentation scaffolding, and autonomous scheduled development tasks.",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/dev-automation-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/dev-automation-claude-plugin.git"
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/dev-automation-claude-plugin"
@@ -20,8 +20,8 @@
       "name": "youtube-mcp",
       "description": "MCP server for YouTube search, transcripts, and video analysis",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/youtube-mcp-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/youtube-mcp-claude-plugin.git"
       },
       "version": "1.0.0",
       "homepage": "https://github.com/goosefly99/youtube-mcp-claude-plugin"
@@ -30,8 +30,8 @@
       "name": "x-api-mcp",
       "description": "X (Twitter) API MCP server - authenticated crawler, client, and query tools",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/x-api-mcp-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/x-api-mcp-claude-plugin.git"
       },
       "version": "0.0.1",
       "homepage": "https://github.com/goosefly99/x-api-mcp-claude-plugin"
@@ -40,8 +40,8 @@
       "name": "synth-mcp",
       "description": "Research synthesis MCP server - load research collections, query items, and generate structured design specs",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/synth-mcp-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/synth-mcp-claude-plugin.git"
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/synth-mcp-claude-plugin"
@@ -50,8 +50,8 @@
       "name": "feature-request",
       "description": "MCP tool for agents to record feature suggestions into feature_requests.toml files",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/feature-request-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/feature-request-claude-plugin.git"
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/feature-request-claude-plugin"
@@ -60,8 +60,8 @@
       "name": "concepts-collector",
       "description": "Research concepts collector MCP server - load collections, extract key concepts, and generate structured knowledge base overviews",
       "source": {
-        "source": "github",
-        "repo": "goosefly99/concepts-collector-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/goosefly99/concepts-collector-claude-plugin.git"
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/concepts-collector-claude-plugin"
