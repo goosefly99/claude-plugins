@@ -65,6 +65,16 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/concepts-collector-claude-plugin"
+    },
+    {
+      "name": "caveman-mode",
+      "description": "Terse-response skill that drops filler, articles, and pleasantries while preserving correctness. Distilled from the viral caveman prompt and Guzik's benchmark.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/caveman-mode-claude-plugin.git"
+      },
+      "version": "0.1.0",
+      "homepage": "https://github.com/goosefly99/caveman-mode-claude-plugin"
     }
   ]
 }
