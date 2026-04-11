@@ -75,6 +75,16 @@
       },
       "version": "0.1.0",
       "homepage": "https://github.com/goosefly99/caveman-mode-claude-plugin"
+    },
+    {
+      "name": "pipeline-orchestrator",
+      "description": "Pipeline orchestrator MCP server - reads pipeline.toml, resolves DAG, validates artifacts, manages run state, and coordinates research/debate/synth phases",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/goosefly99/pipeline-orchestrator-claude-plugin.git"
+      },
+      "version": "0.3.0",
+      "homepage": "https://github.com/goosefly99/pipeline-orchestrator-claude-plugin"
     }
   ]
 }
